@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working through **The Odin Project.**
 
-- 🌱 I’m currently learning **JavaScript, NodeJs, HTML, CSS, and Python.**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, and Python.**
 
 - 👷‍♀️ I'm currently building a sign-up form utilizing front-end validation.
 
