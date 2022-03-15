@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, and Python.**
 
-- 👷‍♀️ I'm currently building a sign-up form utilizing front-end validation.
+- 👷‍♀️ I'm currently building an admin dashboard.
 
 <p align="left">
 </p>
