@@ -17,5 +17,5 @@
 </p>
 
 <p align="left">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedrus&exclude_repo=github-readme-stats,css-exercises,javascript-exercises,Javascript30&layout=compact,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedrus32&exclude_repo=github-readme-stats,css-exercises,javascript-exercises,Javascript30&layout=compact,cedrus32.github.io)](https://github.com/Cedrus32/github-readme-stats)
 </p>
