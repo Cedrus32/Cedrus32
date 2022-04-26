@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, and Python.**
 
-- 👷‍♀️ I'm currently building ... nothing right now.
+- 👷‍♀️ I'm currently building ... a library webpage.
 
 <p align="left">
 </p>
