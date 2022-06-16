@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, and Python.**
 
-- 👷‍♀️ I'm currently building ... a library webpage.
+- 👷‍♀️ I'm currently building ... a tic-tac-toe game.
 
 <p align="left">
 </p>
