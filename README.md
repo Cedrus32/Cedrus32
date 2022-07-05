@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, and Python.**
 
-- 👷‍♀️ I'm currently building ... nothing -- just finished the <a href="https://github.com/Cedrus32/Tic-Tac-Toe" target="_blank">tic-tac-toe game</a>.
+- 👷‍♀️ I'm currently building a <a href="https://github.com/Cedrus32/Restaurant-Page" target="_blank">restaurant page</a> using webpack .
 
 <p align="left">
 </p>
