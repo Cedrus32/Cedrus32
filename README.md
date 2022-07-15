@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, and Python.**
 
-- 👷‍♀️ I'm currently building nothing - designing mockups for a todo list app.
+- 👷‍♀️ I'm currently building a <a href='https://github.com/Cedrus32/Todo-List'>todo list app</a>.
 
 <p align="left">
 </p>
