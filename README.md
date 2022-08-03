@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shannon.</h1>
 <h3 align="center">Special education teacher by day, learning to code by night (early morning).</h3>
 
-- 🔭 I’m currently working through **The Odin Project.**
+- 🔭 Currently working through **The Odin Project.**
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, and Python.**
+- 🌱 Currently learning **JavaScript, HTML, CSS.**
+- 🕰 Previously studied **Python**.
 
-- 👷‍♀️ I'm currently building a <a href='https://github.com/Cedrus32/Todo-List'>todo list app</a>.
+- 👷‍♀️ Currently building a <a href='https://github.com/Cedrus32/Todo-List'>todo list app</a>.
 
 <p align="left">
 </p>
