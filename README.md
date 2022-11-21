@@ -6,7 +6,7 @@
 - 🌱 Currently learning **JavaScript, HTML, CSS.**
 - 🕰 Previously studied **Python & SQLite**.
 
-- 👷‍♀️ Currently building a weather app.
+- 👷‍♀️ Currently building a <a href='https://github.com/Cedrus32/Weather-App'>weather app</a>.
 
 <p align="left">
 </p>
