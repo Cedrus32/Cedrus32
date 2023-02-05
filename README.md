@@ -6,7 +6,7 @@
 - 🌱 Currently learning **JavaScript, HTML, CSS.**
 - 🕰 Previously studied **Python & SQLite**.
 
-- 👷‍♀️ Currently building a <a href='https://github.com/Cedrus32/Knights-Travails'>Knight's Travails UI</a>.
+- 👷‍♀️ Currently building a <a href='https://github.com/Cedrus32/Battleship'>Battleship game</a>.
 
 <p align="left">
 </p>
