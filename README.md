@@ -6,7 +6,7 @@
 - 🌱 Currently learning **JavaScript, HTML, CSS.**
 - 🕰 Previously studied **Python & SQLite**.
 
-- 👷‍♀️ Currently building nothing. Just learning.</a>.
+- 👷‍♀️ Currently building nothing. Learning React.
 
 <p align="left">
 </p>
