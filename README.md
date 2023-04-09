@@ -6,7 +6,7 @@
 - 🌱 Currently learning **JavaScript, HTML, CSS.**
 - 🕰 Previously studied **Python & SQLite**.
 
-- 👷‍♀️ Currently building nothing. Learning React.
+- 👷‍♀️ Currently building a <a href="https://github.com/Cedrus32/CV">CV application</a>.
 
 <p align="left">
 </p>
