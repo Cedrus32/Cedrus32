@@ -6,7 +6,7 @@
 - 🌱 Currently learning **JavaScript, HTML, CSS.**
 - 🕰 Previously studied **Python & SQLite**.
 
-- 👷‍♀️ Currently building a <a href="https://github.com/Cedrus32/Memory">memory game</a>.
+- 👷‍♀️ Currently building nothing. Learning about react testing.
 
 <p align="left">
 </p>
