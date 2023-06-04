@@ -6,7 +6,7 @@
 - 🌱 Currently learning **JavaScript, HTML, CSS.**
 - 🕰 Previously studied **Python & SQLite**.
 
-- 👷‍♀️ Currently building nothing. Learning about react testing.
+- 👷‍♀️ Currently building a <a href="https://github.com/Cedrus32/Shopping-Cart">Shopping Cart</a>.
 
 <p align="left">
 </p>
