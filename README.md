@@ -6,7 +6,7 @@
 - 🌱 Currently learning **JavaScript, HTML, CSS.**
 - 🕰 Previously studied **Python & SQLite**.
 
-- 👷‍♀️ Currently building nothing. _Just_ finished the <a href="https://github.com/Cedrus32/Shopping-Cart">Shopping Cart</a> project.
+- 👷‍♀️ Currently building <a href="https://github.com/Cedrus32/Portfolio">Personal Portfolio</a> project.
 
 <p align="left">
 </p>
