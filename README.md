@@ -6,7 +6,7 @@
 - 🌱 Currently learning **JavaScript, HTML, CSS.**
 - 🕰 Previously studied **Python & SQLite**.
 
-- 👷‍♀️ Currently building <a href="https://github.com/Cedrus32/Portfolio">Personal Portfolio</a> project.
+- 👷‍♀️ Currently building <a href="https://github.com/Cedrus32/Portfolio">Personal Portfolio</a> project and refactoring <a href="https://github.com/Cedrus32/Knights-Travails/tree/refactor">Knights Travails</a>.
 
 <p align="left">
 </p>
