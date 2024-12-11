@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shannon.</h1>
 <h3 align="center">Special education teacher by day, learning to code by night (early morning).</h3>
 
-- 🔭 Currently working through **The Odin Project.**
+- 🔭 Recently returned to **The Odin Project.**
 
 - 🌱 Currently learning **JavaScript, HTML, CSS.**
 - 🕰 Previously studied **Python & SQLite**.
 
-- 👷‍♀️ Currently building <a href="https://github.com/Cedrus32/Portfolio">Personal Portfolio</a> project and refactoring <a href="https://github.com/Cedrus32/Knights-Travails/tree/refactor">Knights Travails</a>.
+- 👷‍♀️ Currently revisiting old projects.
 
 <p align="left">
 </p>
